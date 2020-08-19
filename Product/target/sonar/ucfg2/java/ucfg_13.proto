@@ -1,0 +1,77 @@
+
+gby.KomarovIgor.Service.ProductService#printInformation(Lby/KomarovIgor/bean/Product;)Ljava/lang/String;É
+y/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/Service/ProductService.java (""1*„
+1É
+y/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/Service/ProductService.java (ﬁ
+€
+É
+y/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/Service/ProductService.java (
+%0org.slf4j.Logger"__id*5*3'
+%by.KomarovIgor.Service.ProductService"
+loggerÜÉ
+É
+y/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/Service/ProductService.java ("
+
+%1void"*org.slf4j.Logger#info(Ljava/lang/String;)V*
+
+%0org.slf4j.Logger*
+Check price2info(Ljava/lang/String;)èå
+É
+y/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/Service/ProductService.java (+
+%2java.lang.String"7by.KomarovIgor.bean.Product#getName()Ljava/lang/String;*(
+&
+productby.KomarovIgor.bean.Product2	getName()—
+Œ
+É
+y/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/Service/ProductService.java (+
+%3java.lang.String"__concat*
+
+Name= *
+
+%2java.lang.String‘
+—
+É
+y/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/Service/ProductService.java (9
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+	, Price= ÑÅ
+É
+y/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/Service/ProductService.java< (U
+%5double".by.KomarovIgor.bean.Product#getRegularPrice()D*(
+&
+productby.KomarovIgor.bean.Product2getRegularPrice()’
+“
+É
+y/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/Service/ProductService.java (U
+%6java.lang.String"__concat*
+
+%4java.lang.String*
+
+%5double◊
+‘
+É
+y/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/Service/ProductService.java (f
+%7java.lang.String"__concat*
+
+%6java.lang.String*
+, discount= ¸˘
+É
+y/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/Service/ProductService.javai (~
+%8double"*by.KomarovIgor.bean.Product#getDiscount()D*(
+&
+productby.KomarovIgor.bean.Product2getDiscount()’
+“
+É
+y/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/Service/ProductService.java (~
+%9java.lang.String"__concat*
+
+%7java.lang.String*
+
+%8double"†
+É
+y/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/Service/ProductService.java (
+
+%9java.lang.String:&
+productby.KomarovIgor.bean.ProductB)'
+%by.KomarovIgor.Service.ProductService

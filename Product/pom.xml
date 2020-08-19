@@ -10,9 +10,14 @@
     <build>
         <plugins>
             <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-site-plugin</artifactId>
+                <version>3.9.1</version>
+            </plugin>
+            <plugin>
                 <groupId>org.jacoco</groupId>
                 <artifactId>jacoco-maven-plugin</artifactId>
-                <version>0.7.7.201606060606</version>
+                <version>0.8.5</version>
                 <executions>
                     <execution>
                         <goals>
@@ -36,7 +41,7 @@
                                 <rule>
                                     <limits>
                                         <limit>
-                                            <minimum>0.7</minimum>
+                                            <minimum>0.0</minimum>
                                         </limit>
                                     </limits>
                                 </rule>
@@ -48,10 +53,16 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.8.1</version>
                 <configuration>
                     <source>8</source>
                     <target>8</target>
                 </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-deploy-plugin</artifactId>
+                <version>3.0.0-M1</version>
             </plugin>
         </plugins>
     </build>
@@ -78,6 +89,21 @@
             <version>1.6.2</version>
             <scope>compile</scope>
         </dependency>
+        <dependency>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-site-plugin</artifactId>
+            <version>3.9.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.jacoco</groupId>
+            <artifactId>jacoco-maven-plugin</artifactId>
+            <version>0.8.5</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-deploy-plugin</artifactId>
+            <version>3.0.0-M1</version>
+        </dependency>
     </dependencies>
 
 
@@ -85,6 +111,7 @@
         <sonar.projectKey>ufolog1368_Homework-Project-JavaGuru-course</sonar.projectKey>
         <sonar.organization>ufolog1368</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <sonar.login>8f4121b2886f9f6604a03946e858d25569ee8080</sonar.login>
     </properties>
 
 

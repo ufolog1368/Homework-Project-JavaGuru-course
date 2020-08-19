@@ -3,7 +3,7 @@ package by.KomarovIgor.Service;
 import by.KomarovIgor.bean.Product;
 import org.junit.Test;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.*;
 
 
 public class ProductServiceTest {
@@ -21,10 +21,12 @@ public class ProductServiceTest {
     public void printInformation() {
         Product product = new Product("Hard disk", 100.0, 10);
         ProductService productService = new ProductService();
-        String expected = "Name= Hard disk, Price= 100.0, discount= 10.0";
+        String expected = "Name= " + product.getName() + ", Price= " + product.getRegularPrice() + ", discount= " + product.getDiscount();
         String actual = productService.printInformation(product);
         assertEquals(expected, actual);
 
 
     }
 }
+//"Name= " + product.getName() + ", Price= " + product.getRegularPrice() + ", discount= " + product.getDiscount();
+//"Name= Hard disk, Price= 100.0, discount= 10.0";
