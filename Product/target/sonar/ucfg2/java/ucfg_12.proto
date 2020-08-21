@@ -1,27 +1,24 @@
 
-Qby.KomarovIgor.Service.ProductService#actualPrice(Lby/KomarovIgor/bean/Product;)DÉ
-y/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/Service/ProductService.java
- 
-("1*ß
-1É
-y/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/Service/ProductService.java ("ÑÅ
-É
-y/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/Service/ProductService.java (4
-%0double".by.KomarovIgor.bean.Product#getRegularPrice()D*(
-&
-productby.KomarovIgor.bean.Product2getRegularPrice()¸˘
-É
-y/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/Service/ProductService.java< (Q
-%1double"*by.KomarovIgor.bean.Product#getDiscount()D*(
-&
-productby.KomarovIgor.bean.Product2getDiscount()ÑÅ
-É
-y/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/Service/ProductService.java ((
-%2double".by.KomarovIgor.bean.Product#getRegularPrice()D*(
-&
-productby.KomarovIgor.bean.Product2getRegularPrice()"é
-É
-y/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/Service/ProductService.java (4
-"":&
-productby.KomarovIgor.bean.ProductB)'
-%by.KomarovIgor.Service.ProductService
+'by.komarovigor.bean.Product#hashCode()Iy
+o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/komarovigor/bean/Product.java6 6("1*…
+1y
+o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/komarovigor/bean/Product.java7 7(«
+ƒ
+y
+o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/komarovigor/bean/Product.java7 7( 
+%0java.lang.String"__id*)*'
+by.komarovigor.bean.Product"
+name¯
+ı
+y
+o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/komarovigor/bean/Product.java7 7(9	
+%1int",java.util.Objects#hash([Ljava/lang/Object;)I*"
+java.util.Objects*
+
+%0java.lang.String*
+""*
+"""É
+y
+o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/komarovigor/bean/Product.java7 7(:
+""B
+by.komarovigor.bean.Product

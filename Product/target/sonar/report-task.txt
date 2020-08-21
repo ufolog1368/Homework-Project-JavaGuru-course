@@ -1,7 +1,7 @@
 organization=ufolog1368
 projectKey=ufolog1368_Homework-Project-JavaGuru-course
 serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.10863
+serverVersion=8.0.0.11115
 dashboardUrl=https://sonarcloud.io/dashboard?id=ufolog1368_Homework-Project-JavaGuru-course
-ceTaskId=AXP9apAGsdy1QqbDPE3_
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXP9apAGsdy1QqbDPE3_
+ceTaskId=AXQRog9W4zR3BDDtTyI8
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXQRog9W4zR3BDDtTyI8

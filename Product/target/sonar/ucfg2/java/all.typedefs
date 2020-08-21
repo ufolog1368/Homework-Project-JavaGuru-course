@@ -17,23 +17,28 @@ getClass(),java.lang.Object#getClass()Ljava/lang/Class;5
 wait()java.lang.Object#wait()V*
 
 hashCode()java.lang.Object#hashCode()Iú
-by.KomarovIgor.Appjava.lang.Object(
-<init>()by.KomarovIgor.App#<init>()VJ
-main([Ljava/lang/String;)-by.KomarovIgor.App#main([Ljava/lang/String;)V∫
-by.KomarovIgor.bean.Productjava.lang.ObjectW
-setName(Ljava/lang/String;)8by.KomarovIgor.bean.Product#setName(Ljava/lang/String;)VU
-equals(Ljava/lang/Object;)7by.KomarovIgor.bean.Product#equals(Ljava/lang/Object;)ZY
-<init>(Ljava/lang/String;DD)9by.KomarovIgor.bean.Product#<init>(Ljava/lang/String;DD)VD
-	getName()7by.KomarovIgor.bean.Product#getName()Ljava/lang/String;1
-<init>()%by.KomarovIgor.bean.Product#<init>()VF
+by.komarovigor.Appjava.lang.Object(
+<init>()by.komarovigor.App#<init>()VJ
+main([Ljava/lang/String;)-by.komarovigor.App#main([Ljava/lang/String;)Vî
+%by.komarovigor.Service.Productservicejava.lang.Object;
+<init>()/by.komarovigor.Service.Productservice#<init>()Vö
+/printInformation(Lby/komarovigor/bean/Product;)gby.komarovigor.Service.Productservice#printInformation(Lby/komarovigor/bean/Product;)Ljava/lang/String;
+*actualPrice(Lby/komarovigor/bean/Product;)Qby.komarovigor.Service.Productservice#actualPrice(Lby/komarovigor/bean/Product;)D∫
+by.komarovigor.bean.Productjava.lang.ObjectW
+setName(Ljava/lang/String;)8by.komarovigor.bean.Product#setName(Ljava/lang/String;)VU
+equals(Ljava/lang/Object;)7by.komarovigor.bean.Product#equals(Ljava/lang/Object;)ZY
+<init>(Ljava/lang/String;DD)9by.komarovigor.bean.Product#<init>(Ljava/lang/String;DD)VD
+	getName()7by.komarovigor.bean.Product#getName()Ljava/lang/String;1
+<init>()%by.komarovigor.bean.Product#<init>()VF
 
-toString()8by.KomarovIgor.bean.Product#toString()Ljava/lang/String;;
-getDiscount()*by.KomarovIgor.bean.Product#getDiscount()DC
-getRegularPrice().by.KomarovIgor.bean.Product#getRegularPrice()D=
-setDiscount(D)+by.KomarovIgor.bean.Product#setDiscount(D)VE
-setRegularPrice(D)/by.KomarovIgor.bean.Product#setRegularPrice(D)V5
+toString()8by.komarovigor.bean.Product#toString()Ljava/lang/String;;
+getDiscount()*by.komarovigor.bean.Product#getDiscount()DC
+getRegularPrice().by.komarovigor.bean.Product#getRegularPrice()D=
+setDiscount(D)+by.komarovigor.bean.Product#setDiscount(D)VE
+setRegularPrice(D)/by.komarovigor.bean.Product#setRegularPrice(D)V5
 
-hashCode()'by.KomarovIgor.bean.Product#hashCode()I(
+hashCode()'by.komarovigor.bean.Product#hashCode()I$
+org.slf4j.Loggerjava.lang.Object(
 java.lang.Comparablejava.lang.Object(
 java.io.Serializablejava.lang.Object¿
 java.lang.Numberjava.lang.Objectjava.io.Serializable.
@@ -218,9 +223,4 @@ FrequireNonNullElseGet(Ljava/lang/Object;Ljava/util/function/Supplier;)jjava.ut
 Ccompare(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Comparator;)Vjava.util.Objects#compare(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Comparator;)Iw
 0deepEquals(Ljava/lang/Object;Ljava/lang/Object;)Cjava.util.Objects#deepEquals(Ljava/lang/Object;Ljava/lang/Object;)Zl
 "requireNonNull(Ljava/lang/Object;)Fjava.util.Objects#requireNonNull(Ljava/lang/Object;)Ljava/lang/Object;3
-checkIndex(II)!java.util.Objects#checkIndex(II)Iî
-%by.KomarovIgor.Service.ProductServicejava.lang.Object;
-<init>()/by.KomarovIgor.Service.ProductService#<init>()V
-*actualPrice(Lby/KomarovIgor/bean/Product;)Qby.KomarovIgor.Service.ProductService#actualPrice(Lby/KomarovIgor/bean/Product;)Dö
-/printInformation(Lby/KomarovIgor/bean/Product;)gby.KomarovIgor.Service.ProductService#printInformation(Lby/KomarovIgor/bean/Product;)Ljava/lang/String;$
-org.slf4j.Loggerjava.lang.Object
+checkIndex(II)!java.util.Objects#checkIndex(II)I

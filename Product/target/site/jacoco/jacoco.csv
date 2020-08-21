@@ -1,4 +1,4 @@
 GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-free,by.KomarovIgor,App,8,0,0,0,3,0,2,0,2,0
-free,by.KomarovIgor.bean,Product,99,21,12,0,16,8,13,4,7,4
-free,by.KomarovIgor.Service,ProductService,0,44,0,0,0,6,0,3,0,3
+free,by.komarovigor.bean,Product,5,115,6,6,0,24,6,11,0,11
+free,by.komarovigor,App,4,0,0,0,2,0,2,0,2,0
+free,by.komarovigor.Service,Productservice,0,44,0,0,0,6,0,3,0,3

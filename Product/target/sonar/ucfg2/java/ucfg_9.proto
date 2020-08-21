@@ -1,106 +1,9 @@
 
-7by.KomarovIgor.bean.Product#equals(Ljava/lang/Object;)Zy
-o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/bean/Product.java, ,("startingBlock*®
-2y
-o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/bean/Product.java2 2(Ç
-Ä
-y
-o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/bean/Product.java2 2(
-%4java.lang.String"__id*)*'
-by.KomarovIgor.bean.Product"
-nameÐ
-Í
-y
-o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/bean/Product.java2 2((
-%5java.lang.String"__id*2*0
-&
-productby.KomarovIgor.bean.Product"
-name‹ˆ
-y
-o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/bean/Product.java2 2()
-%6boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-%4java.lang.String*
-
-%5java.lang.String2equals(Ljava/lang/Object;)*
-1*‡
-startingBlocky
-o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/bean/Product.java, ,(#Á
-¾
-y
-o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/bean/Product.java+ +(
-%7"
-__annotate*
-java.lang.Override*
-
-ojava.lang.Object«
-¨
-y
-o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/bean/Product.java,! ,("
-ojava.lang.Object"__annotation*
-
-%7*	
-6
-7
-9*×
-4y
-o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/bean/Product.java1 1(Î
-Ë
-y
-o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/bean/Product.java1 1(:	
-%3int"java.lang.Double#compare(DD)I*"
-java.lang.Double*
-""*
-""*
-2
-1*¢
-5y
-o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/bean/Product.java/$ /(%Å
-Â
-y
-o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/bean/Product.java/ /(&&
-productby.KomarovIgor.bean.Product"__id*
-
-ojava.lang.ObjectÎ
-Ë
-y
-o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/bean/Product.java0 0(A	
-%2int"java.lang.Double#compare(DD)I*"
-java.lang.Double*
-""*
-""*	
-2
-4
-1*„
-6y
-o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/bean/Product.java.< .(A"ƒ
-y
-o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/bean/Product.java.5 .(B
-""*ä
-7y
-o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/bean/Product.java. .(!ðí
-y
-o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/bean/Product.java. .(#
-%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
-by.KomarovIgor.bean.Product2
-getClass()èå
-y
-o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/bean/Product.java.' .(3
-%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
-
-ojava.lang.Object2
-getClass()*
-5
-6*„
-9y
-o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/bean/Product.java- -(""ƒ
-y
-o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/bean/Product.java- -(#
-""*„
+*by.komarovigor.bean.Product#getDiscount()Dy
+o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/komarovigor/bean/Product.java# #("1*„
 1y
-o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/bean/Product.java0 2(*"ƒ
+o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/komarovigor/bean/Product.java$ $("ƒ
 y
-o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/KomarovIgor/bean/Product.java0 2(*
-"":
-ojava.lang.ObjectB
-by.KomarovIgor.bean.Product
+o/home/igor/IdeaProjects/Homework-Project-JavaGuru-course/Product/src/main/java/by/komarovigor/bean/Product.java$ $(
+""B
+by.komarovigor.bean.Product

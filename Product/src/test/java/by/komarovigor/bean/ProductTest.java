@@ -1,4 +1,4 @@
-package by.KomarovIgor.bean;
+package by.komarovigor.bean;
 
 import org.junit.Test;
 

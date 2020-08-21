@@ -1,6 +1,6 @@
-package by.KomarovIgor.Service;
+package by.komarovigor.Service;
 
-import by.KomarovIgor.bean.Product;
+import by.komarovigor.bean.Product;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
@@ -11,7 +11,7 @@ public class ProductServiceTest {
     @Test
     public void actualPrice() {
      Product product = new Product("Phone", 500.0, 20);
-     ProductService productService = new ProductService();
+     Productservice productService = new Productservice();
      double expected = 400;
      double actual = productService.actualPrice(product);
      assertEquals(expected, actual, 0.0);
@@ -20,7 +20,7 @@ public class ProductServiceTest {
     @Test
     public void printInformation() {
         Product product = new Product("Hard disk", 100.0, 10);
-        ProductService productService = new ProductService();
+        Productservice productService = new Productservice();
         String expected = "Name= " + product.getName() + ", Price= " + product.getRegularPrice() + ", discount= " + product.getDiscount();
         String actual = productService.printInformation(product);
         assertEquals(expected, actual);

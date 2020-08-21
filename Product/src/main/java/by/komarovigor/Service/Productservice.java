@@ -1,11 +1,11 @@
-package by.KomarovIgor.Service;
+package by.komarovigor.Service;
 
-import by.KomarovIgor.bean.Product;
+import by.komarovigor.bean.Product;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class ProductService {
-    private Logger logger = LoggerFactory.getLogger(ProductService.class);
+public class Productservice {
+    private Logger logger = LoggerFactory.getLogger(Productservice.class);
 
     public  double actualPrice(Product product){
         double discount = (product.getRegularPrice()/100) * product.getDiscount();
