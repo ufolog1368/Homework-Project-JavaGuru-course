@@ -1,4 +1,4 @@
-package by.komarovigor.Service;
+package by.komarovigor.service;
 
 import by.komarovigor.bean.Product;
 import org.slf4j.Logger;
